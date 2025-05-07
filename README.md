@@ -90,4 +90,4 @@ Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
 ---
 
-End
+Selamat Mencoba🙏
