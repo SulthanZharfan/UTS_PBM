@@ -46,7 +46,7 @@ Aplikasi ini merupakan **aplikasi manajemen tugas/jadwal** berbasis mobile yang 
    - Simpan tugas ➔ otomatis muncul di halaman utama.
 
 **Mengedit/Menghapus Tugas:**
-   - Swipe/klik pada tugas untuk mengedit atau menghapus.
+   - Klik pada tugas untuk mengedit atau menghapus.
    - Update status tugas (selesai/belum).
 
 **Mode Dark/Light:**
