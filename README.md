@@ -56,6 +56,7 @@ Aplikasi ini merupakan **aplikasi manajemen tugas/jadwal** berbasis mobile yang 
 
 > ✨ **Fitur Utama:**
 > - Manajemen tugas sederhana & cepat.
+> - Data tersimpan walau berubah halaman.
 > - Responsive untuk mobile & tablet.
 > - UI bersih & mudah digunakan.
 
