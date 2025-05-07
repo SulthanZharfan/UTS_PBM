@@ -11,29 +11,83 @@ Ini adalah repository untuk tugas **UTS Pemrograman Berbasis Mobile (PBM)**. Di 
 
 ---
 
+## 🔥 Link Youtube
+```bash
+git clone https://github.com/SulthanZharfan/UTS_PBM.git
+```
+
+---
+
+## 🚀 Cara Menjalankan:
+
+1. Clone repository ke komputer/laptop.
+2. Buka folder project menggunakan Android Studio atau VSCode.
+3. Jalankan perintah `flutter pub get` untuk menginstall semua dependency.
+4. Hubungkan emulator atau device fisik.
+5. Jalankan aplikasi dengan klik tombol **Run** di Android Studio/VSCode atau gunakan perintah `flutter run` di terminal.
+
+**Clone repository:**
+
+```bash
+git clone https://github.com/SulthanZharfan/UTS_PBM.git
+```
+
+## 🚀 Cara Kerja Aplikasi
+
+Aplikasi ini merupakan **aplikasi manajemen tugas/jadwal** berbasis mobile yang dibuat dengan Flutter. Alur penggunaan aplikasi secara singkat:
+
+**Halaman Utama:**
+   - Menampilkan daftar tugas/jadwal yang sudah dibuat.
+   - User dapat melihat tugas yang masih pending & yang sudah selesai.
+
+**Menambahkan Tugas:**
+   - Klik tombol "+" untuk menambah tugas baru.
+   - Isi detail tugas seperti judul & deadline.
+   - Simpan tugas ➔ otomatis muncul di halaman utama.
+
+**Mengedit/Menghapus Tugas:**
+   - Swipe/klik pada tugas untuk mengedit atau menghapus.
+   - Update status tugas (selesai/belum).
+
+**Mode Dark/Light:**
+   - User dapat toggle antara mode dark & light untuk kenyamanan.
+
+---
+
+> ✨ **Fitur Utama:**
+> - Manajemen tugas sederhana & cepat.
+> - Responsive untuk mobile & tablet.
+> - UI bersih & mudah digunakan.
+
 ## 📸 SS Kodingan
 
 Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
-### 📱 Mobile View(DARK MODE)
+### 📱 Mobile View (DARK MODE)
 
-| SS 1 | SS 2 | SS 3 |
-|:---:|:---:|:---:|
-| ![Mobile 1](SS_Hasil/SS_Mobile/Mobile_Home.png) | ![Mobile 2](screenshots/mobile2.png) | ![Mobile 3](screenshots/mobile3.png) |
+#### SS 1
+<img src="SS_Hasil/SS_Mobile/Mobile_Home.png"/>
+
+#### SS 2
+<img src="SS_Hasil/SS_Mobile/Mobile_Jadwal.png"/>
+
+#### SS 3
+<img src="SS_Hasil/SS_Mobile/Mobile_Profil.png"/>
 
 ---
 
 ### 🖥️ Tablet View(LIGHT MODE)
 
-| SS 1 | SS 2 | SS 3 |
-|:---:|:---:|:---:|
-| ![Tablet 1](screenshots/tablet1.png) | ![Tablet 2](screenshots/tablet2.png) | ![Tablet 3](screenshots/tablet3.png) |
+#### SS 1
+<img src="SS_Hasil/SS_Tablet/Tablet_Home.png"/>
+
+#### SS 2
+<img src="SS_Hasil/SS_Tablet/Tablet_Jadwal.png"/>
+
+#### SS 3
+<img src="SS_Hasil/SS_Tablet/Tablet_Profil.png"/>
+
 
 ---
 
-## 🚀 Cara Menjalankan Project
-
-1️⃣ **Clone repository:**
-
-```bash
-git clone https://github.com/SulthanZharfan/UTS_PBM.git
+End
