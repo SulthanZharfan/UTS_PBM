@@ -65,26 +65,26 @@ Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
 ### 📱 Mobile View (DARK MODE)
 
-#### SS 1
+#### SS Home
 <img src="SS_Hasil/SS_Mobile/Mobile_Home.png"/>
 
-#### SS 2
+#### SS Jadwal
 <img src="SS_Hasil/SS_Mobile/Mobile_Jadwal.png"/>
 
-#### SS 3
+#### SS Profil
 <img src="SS_Hasil/SS_Mobile/Mobile_Profil.png"/>
 
 ---
 
 ### 🖥️ Tablet View(LIGHT MODE)
 
-#### SS 1
+#### SS Home
 <img src="SS_Hasil/SS_Tablet/Tablet_Home.png"/>
 
-#### SS 2
+#### SS Jadwal
 <img src="SS_Hasil/SS_Tablet/Tablet_Jadwal.png"/>
 
-#### SS 3
+#### SS Profil
 <img src="SS_Hasil/SS_Tablet/Tablet_Profil.png"/>
 
 
