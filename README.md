@@ -19,7 +19,7 @@ Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
 | SS 1 | SS 2 | SS 3 |
 |:---:|:---:|:---:|
-| ![Mobile 1](SS_Hasil/Mobile_Home.png) | ![Mobile 2](screenshots/mobile2.png) | ![Mobile 3](screenshots/mobile3.png) |
+| ![Mobile 1](SS_Hasil/SS_Mobile/Mobile_Home.png) | ![Mobile 2](screenshots/mobile2.png) | ![Mobile 3](screenshots/mobile3.png) |
 
 ---
 
