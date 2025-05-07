@@ -22,7 +22,7 @@ Repository ini mencakup:
 
 Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
-### 📱 Mobile View
+### 📱 Mobile View(DARK MODE)
 
 | SS 1 | SS 2 | SS 3 |
 |:---:|:---:|:---:|
@@ -30,7 +30,7 @@ Berikut adalah screenshot dari hasil kodingan saya di berbagai device:
 
 ---
 
-### 🖥️ Tablet View
+### 🖥️ Tablet View(LIGHT MODE)
 
 | SS 1 | SS 2 | SS 3 |
 |:---:|:---:|:---:|
